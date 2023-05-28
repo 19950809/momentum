@@ -1,0 +1,5 @@
+#Login-form {
+}
+#Login-form input:last-child {
+  display: none;
+}
